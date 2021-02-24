@@ -1,0 +1,45 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-TARGETDURATION:4
+#EXT-X-MEDIA-SEQUENCE:32850
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132516.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.360000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132519.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.360000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132523.ts?@telegram t.me/iptvcpdev
+#EXTINF:2.120000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132526.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.280000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132528.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132531.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132534.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.600000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132537.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132541.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132544.ts?@telegram t.me/iptvcpdev
+#EXTINF:2.480000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132547.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132549.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132552.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132555.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132558.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132601.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132604.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132607.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132610.ts?@telegram t.me/iptvcpdev
+#EXTINF:3.000000,
+http://103.130.186.138:8800/oxygenplay/nettv/20210223132613.ts?@telegram t.me/iptvcpdev
