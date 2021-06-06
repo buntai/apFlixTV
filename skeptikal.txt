@@ -627,7 +627,7 @@ http://185.180.221.194:8278/streams/d/Thrill/playlist.m3u8
 http://tvms.me:8080/lynda/lynda/343
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://img.favpng.com/11/2/5/warner-tv-television-channel-wb-channel-warner-bros-png-favpng-RRxix5SbNQwxyqFhPGfrmDjJN.jpg", Warner TV
 http://hottest.fit:8080/zain/zain123/28733
-#EXTINF:-1, group-title="Variety📺" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", Warner [B]
+#EXTINF:-1 group-title="Variety📺" tvg-logo="https://telegra.ph/file/d279b9361d1077d0cdd5b.png", Warner TV [B]
 http://hottest.fit:8080/zain/zain123/33255
 #EXTINF:-1 group-title="Variety📺" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/1200px-AXN_logo_%282015%29.svg.png", AXN
 http://hottest.fit:8080/zain/zain123/28816
